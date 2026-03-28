@@ -20,8 +20,8 @@ By combining **sensor data analysis** with **practical testing**, the project co
 ## How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bhramer777/Thermal-Camera-s-Potential-in-Active-Safety.git
-   cd Thermal-Camera-s-Potential-in-Active-Safety
+   git clone https://github.com/megha9811/Potential-of-Thermal-Camerain-Active-Safety.git
+   cd Potential-of-Thermal-Camerain-Active-Safety
 
 2. **Optional(Create a virtual environment)**
     ```bash
