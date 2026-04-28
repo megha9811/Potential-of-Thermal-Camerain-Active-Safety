@@ -18,6 +18,7 @@ By combining **sensor data analysis** with **practical testing**, the project co
 ---
 
 ## How to Run
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/megha9811/Potential-of-Thermal-Camerain-Active-Safety.git
